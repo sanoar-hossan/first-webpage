@@ -1,0 +1,36 @@
+*{margin0;padding0;}
+.img{
+	width:400px;
+	height:600px;
+	float:right;
+}
+body{
+	background-color:white;
+}
+div img{
+	width:400px;
+	height:600px;
+	
+}
+.identity{
+	font-family:arial;
+	color:red;
+	margin:20px;
+	padding:5px;
+	font-weight:bold;
+
+	
+}
+.identity h2{
+	color:blue;
+}
+
+
+
+input[type=submit]{
+	border-radius:15px;
+	font-weight:bold;
+}
+body{
+	background-color:skyblue;
+}
